@@ -4,5 +4,6 @@ Inspired by [Daniel Shiffman](https://github.com/shiffman) Sevent Segments Displ
 
 I made this in pure JavaScript just for fun, with p5.js library is much easy.
 
-![Digital Clock](digital-clock.png "picture")
+Link : [https://lanmi.github.io/digital-clock/](https://lanmi.github.io/digital-clock/)  
 
+![Digital Clock](digital-clock.png "picture")
